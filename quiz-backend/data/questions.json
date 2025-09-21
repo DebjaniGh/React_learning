@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of India?",
+    "options": ["Delhi", "Mumbai", "Kolkata", "Chennai"],
+    "answer": "Delhi"
+  },
+  {
+    "id": 2,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "answer": "Mars"
+  },
+  {
+    "id": 3,
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": [
+      "William Shakespeare",
+      "Charles Dickens",
+      "Jane Austen",
+      "Mark Twain"
+    ],
+    "answer": "William Shakespeare"
+  },
+  {
+    "id": 4,
+    "question": "What is the largest mammal in the world?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "answer": "Blue Whale"
+  },
+  {
+    "id": 5,
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": ["Oxygen", "Gold", "Osmium", "Iron"],
+    "answer": "Oxygen"
+  }
+]

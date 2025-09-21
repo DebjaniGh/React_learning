@@ -3,6 +3,7 @@ import CounterApp from './components/Counter';
 import CustomBtn from './components/CustomButton';
 import Greeting from './components/Greeting';
 import InputTxt from './components/InputTxt';
+import QuizApp from './components/QuizApp';
 import ToDoList from './components/ToDo';
 import WeatherApp from './components/WeatherApp';
 
@@ -47,7 +48,8 @@ function App() {
       {/* <InputTxt onChange={handleInputChange} /> */}
       {/* <CounterApp/> */}
       {/* <ToDoList/> */}
-      <WeatherApp />
+      {/* <WeatherApp /> */}
+      <QuizApp />
     </div>
   );
 }
