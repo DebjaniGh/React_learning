@@ -1,0 +1,29 @@
+{
+  "bengaluru": {
+    "city": "Bengaluru",
+    "temperature": 28,
+    "humidity": 65,
+    "condition": "Partly Cloudy",
+    "windSpeed": 12,
+    "icon": "🌤️",
+    "timestamp": "2025-09-21T14:00:00+05:30"
+  },
+  "delhi": {
+    "city": "Delhi",
+    "temperature": 34,
+    "humidity": 40,
+    "condition": "Sunny",
+    "windSpeed": 18,
+    "icon": "☀️",
+    "timestamp": "2025-09-21T14:00:00+05:30"
+  },
+  "mumbai": {
+    "city": "Mumbai",
+    "temperature": 30,
+    "humidity": 75,
+    "condition": "Rainy",
+    "windSpeed": 10,
+    "icon": "🌧️",
+    "timestamp": "2025-09-21T14:00:00+05:30"
+  }
+}
